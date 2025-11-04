@@ -1,0 +1,11 @@
+# pip install -r requirements.txt
+python-dotenv
+pdfplumber
+mysql-connector-python
+google-generativeai
+streamlit
+streamlit-pdf-viewer
+PyPDF2
+pandas
+sqlalchemy
+pymysql
